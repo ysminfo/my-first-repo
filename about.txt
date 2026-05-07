@@ -1,0 +1,6 @@
+About Me
+=========
+Name: Manoj
+Learning: Git and GitHub
+Favourite command so far: git push
+Goal: Become a Git expert!
