@@ -1,0 +1,7 @@
+My Git Skills
+=============
+- git init, add, commit
+- git branch and switch
+- git push and pull
+- git merge
+- Pull Requests (learning!)
