@@ -1,3 +1,1 @@
-Hello Git! This is my first real file.
-My name is [Your Name].
-Today I made my first commit!
+Hello Git! This is edited on MAIN branch.
