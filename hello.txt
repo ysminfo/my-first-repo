@@ -1,1 +1,1 @@
-Hello Git! This is the MAIN and FEATURE branch version - conflict resolved!
+Edited inside VS Code for the first time!
