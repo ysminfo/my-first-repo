@@ -1,1 +1,1 @@
-Hello Git! This is the MAIN branch version.
+Hello Git! This is the MAIN and FEATURE branch version - conflict resolved!
